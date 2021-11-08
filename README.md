@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradivGnanaraj
 - 👀 I’m interested in Python | Machine Learning | Artifical Intelligence | AI for Medicine
 - 🌱 I’m currently learning AI for Medicine
-- 💞️ I’m ready to collaborate on AI Teams
+- 💞️ I’m ready to collaborate with AI Teams
 - 📫 How to reach me <websiteToBeAddedSoon.here>
 
 <!---
